@@ -6,7 +6,7 @@
 
 
 ## 💡 Skills
-`Unity` `C++` `Python` `C (Basics)` `MySQL` `DSA` `Git` `CapCut`
+`Unity` `C++` `Python` `C (Basics)` `MySQL` `DSA` `Git` `CapCut` `Premiere Pro` 
 
 ## 📘 Learning
 - 📐 Practicing DSA regularly using C++

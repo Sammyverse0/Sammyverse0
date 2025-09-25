@@ -3,7 +3,7 @@
 🎮 Aspiring Game Developer | 🖥️ Learning Web & App Dev | 📚 BTech CSE 
 
 ## 🚀 Projects
-
+Space-hopper, Campusphere
 
 ## 💡 Skills
 `Unity` `C++` `Python` `C (Basics)` `MySQL` `DSA` `Git` `CapCut` `Premiere Pro` 

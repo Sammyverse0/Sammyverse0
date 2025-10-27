@@ -12,6 +12,7 @@ Space-hopper, Campusphere
 - 📐 Practicing DSA regularly using C++
 - 🕹️ Learning Unity Basics
 - 🎥 Learning premiere pro
+- 🚌 backend with python and django
 
 ## 🛠️ Currently Working On
 - 📚 Brushing up DSA and web dev basics

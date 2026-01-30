@@ -15,6 +15,7 @@ Space-hopper, Campusphere
 
 ## 🛠️ Currently Working On
 - 📚 Brushing up DSA and web dev basics
+- Learning more game development
 
 > ✨ I believe creativity is power — in games, in code, in words.
 

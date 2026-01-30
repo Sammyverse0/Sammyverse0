@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Samriddhi
 
-🎮 Aspiring Game Developer | 🖥️ Learning Web & App Dev | 📚 BTech CSE 
+🎮 Aspiring Game Developer | 🖥️ Learning Game Dev & Video editing | 📚 BTech CSE 
 
 ## 🚀 Projects
-Space-hopper, Campusphere
+Space-hopper, Campusphere, Vera
 
 ## 💡 Skills
 `Unity` `C++` `Python` `C (Basics)` `MySQL` `DSA` `Git` `CapCut` `Premiere Pro` 

@@ -3,9 +3,9 @@
 🎮 Aspiring Game Developer | 🖥️ Learning Game Dev & Video editing | 📚 BTech CSE 
 
 ## 🚀 Projects
-Space-hopper: A original endless runner game with simple mechanics.
-Vera: A horror, maze game with hidden tasks and story.
-Inverzio/Gravinversion : An original endless runner game with gravity flip mechanic, story, collectibles.
+- Space-hopper: A original endless runner game with simple mechanics.
+- Vera: A horror, maze game with hidden tasks and story.
+- Inverzio/Gravinversion : An original endless runner game with gravity flip mechanic, story, collectibles.
 
 ## 💡 Skills
 `Unity` `C++` `Python` `C (Basics)` `MySQL` `DSA` `Git` `CapCut` `Premiere Pro` 

@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Samriddhi
+# Hi, I'm Samriddhi
 
-🎮 Aspiring Game Developer | 🖥️ Learning Game Dev & Video editing | 📚 BTech CSE 
+Indie Game developer | BTech CSE 
 
 ## 🚀 Projects
 - Space-hopper: A original endless runner game with simple mechanics.

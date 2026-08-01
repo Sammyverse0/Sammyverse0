@@ -3,10 +3,11 @@
 Indie Game developer | BTech CSE 
 
 ## 🚀 Projects
+- AR Treasure hunt app: An AR app with object scanning, level system 
 - Space-hopper: A original endless runner game with simple mechanics.
 - Vera: A horror, maze game with hidden tasks and story.
 - Inverzio/Gravinversion : An original endless runner game with gravity flip mechanic, story, collectibles.
-- AR Treasure hunt app: An AR app with object scanning, level system 
+
 
 ## 💡 Skills
 `Unity` `C++` `Python` `C (Basics)` `MySQL` `DSA` `Git` `CapCut` `Premiere Pro` `After effects`

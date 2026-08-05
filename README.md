@@ -7,6 +7,7 @@ Indie Game developer | BTech CSE
 - Space-hopper: A original endless runner game with simple mechanics.
 - Vera: A horror, maze game with hidden tasks and story.
 - Inverzio/Gravinversion : An original endless runner game with gravity flip mechanic, story, collectibles.
+- AR escape room app: An AR escape room app with puzzles and AR scanning. Build UI for this.
 
 
 ## 💡 Skills

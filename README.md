@@ -19,7 +19,7 @@
 | 🏃 **Space Hopper** | Original endless runner with simple, tight mechanics |
 | 👻 **Vera** | Horror maze game with hidden tasks and a story to uncover |
 | 🌀 **Inverzio / Gravinversion** | Endless runner built around a gravity-flip mechanic, with story and collectibles |
-| 🧩 **AR Escape Room App** | AR escape room with puzzles, scanning, and custom UI |
+| 🧩 **AR Escape Room App** | Worked on AR escape room with puzzles, scanning, and custom UI |
 
 🎮 [Play my games on itch.io →](https://sammyverse0.itch.io)
 

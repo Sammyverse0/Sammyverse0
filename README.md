@@ -70,5 +70,5 @@
 </p>
 
 <p align="center">
-  <i>⭐️ From <b>Samriddhi</b> — building games, one bug fix at a time.</i>
+  <i>⭐️ From <b>Samriddhi</b>  building games, one bug fix at a time.</i>
 </p>

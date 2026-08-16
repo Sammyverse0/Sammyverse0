@@ -2,7 +2,7 @@
 <h3 align="center">Indie Game Developer | BTech CSE</h3>
 
 <p align="center">
-✨ I believe creativity is power — in games, in code, in words.
+I believe creativity is power — in games, in code, in words.
 </p>
 
 <p align="center">

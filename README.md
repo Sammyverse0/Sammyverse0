@@ -27,7 +27,7 @@ I believe creativity is power — in games, in code, in words.
 
 ### 🛠️ Currently Working On
 
-- 🍳 **Kitchen Chaos** — a management-based PC game
+- 🍳 **Airport Rush** — a sort by color game for mobile
 - 📐 Brushing up DSA (daily practice in C++)
 - 🎥 Leveling up in After Effects & video editing
 

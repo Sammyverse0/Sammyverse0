@@ -27,7 +27,7 @@ I believe creativity is power, in games, in code, in words.
 
 ### 🛠️ Currently Working On
 
-- 🍳 **Airport Rush** — a sort by color game for mobile
+- 🍳 **Conviction** — a psychological horror game for brackey's game jam
 - 📐 Brushing up DSA (daily practice in C++)
 - 🎥 Leveling up in After Effects & video editing
 

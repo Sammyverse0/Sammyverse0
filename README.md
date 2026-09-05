@@ -27,7 +27,8 @@ I believe creativity is power, in games, in code, in words.
 
 ### 🛠️ Currently Working On
 
-- 🍳 **Conviction** — a psychological horror game for brackey's game jam
+- 👻 **Conviction** — a psychological horror game for brackey's game jam
+- ✈️ **Airport rush** - a mobile sorting game
 - 📐 Brushing up DSA (daily practice in C++)
 - 🎥 Leveling up in After Effects & video editing
 

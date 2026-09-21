@@ -63,7 +63,7 @@ I believe creativity is power, in games, in code, in words.
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://game-dev-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://samriddhi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://sammyverse0.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/samriddhi-kushwaha-6b7841312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/call_me_sam05/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>

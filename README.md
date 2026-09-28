@@ -23,7 +23,7 @@ I believe creativity is power, in games, in code, in words.
 ---
 
 ### 🛠️ Currently Working On
-- ✈️ **Airport Rush** — a mobile sorting game
+- ✈️ **Airport Rush** — a mobile sorting gamE
 - 📐 Brushing up DSA (daily practice in C++)
 - 🎥 Leveling up in After Effects & video editing
 

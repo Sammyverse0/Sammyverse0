@@ -14,7 +14,7 @@ I believe creativity is power, in games, in code, in words.
 |---|---|
 | 🗺️ **AR Treasure Hunt App** | AR app with object scanning and a level system |
 | 🏃 **Space Hopper** | Original endless runner with simple, tight mechanics |
-| 👻 **Vera** | Horror maze game with hidden tasks and a story to uncover |
+| 👻 **Crop Circles/ Plot-Twister** | A first person shooter game with puzzle mechanics for a agame jam, theme: plot twist|
 | 🌀 **Inverzio / Gravinversion** | Endless runner built around a gravity-flip mechanic, with story and collectibles |
 | 🧩 **AR Escape Room App** | Worked on AR escape room with puzzles, scanning, and custom UI |
 
@@ -23,7 +23,7 @@ I believe creativity is power, in games, in code, in words.
 ---
 
 ### 🛠️ Currently Working On
-- ✈️ **Airport Rush** — a mobile sorting gamE
+- ✈️ **Crop Cirles** — An FPS, puzzle game
 - 📐 Brushing up DSA (daily practice in C++)
 - 🎥 Leveling up in After Effects & video editing
 

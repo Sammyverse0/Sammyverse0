@@ -23,9 +23,9 @@ I believe creativity is power, in games, in code, in words.
 ---
 
 ### 🛠️ Currently Working On
-- ✈️ **Crop Cirles** — An FPS, puzzle game
-- 📐 Brushing up DSA (daily practice in C++)
-- 🎥 Leveling up in After Effects & video editing
+- ✈️ **Drone Simulation** - A basic prototype for drone and enemy AI simulation
+- 🛜 Learning REST API, Flask, django with projects
+- 📐 Brushing up DSA (daily practice in C++
 
 ---
 

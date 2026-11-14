@@ -24,8 +24,9 @@ I believe creativity is power, in games, in code, in words.
 
 ### 🛠️ Currently Working On
 - ✈️ **Drone Simulation** - A basic prototype for drone and enemy AI simulation
+- 🎮 **Game Library** - A personal game tracker built using django.
 - 🛜 Learning REST API, Flask, django with projects
-- 📐 Brushing up DSA (daily practice in C++
+- 📐 Brushing up DSA (daily practice in C++)
 
 ---
 
